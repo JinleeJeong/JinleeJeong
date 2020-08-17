@@ -1,20 +1,27 @@
 <div>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinleeJeong)](https://hits.seeyoufarm.com) 
-
 </div>
 
+
+Hi, I'm JinleeJeong, I wanna be a top frontEnd web developer from Korea.
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
 ### ☝️ Front-end Engineer
-- Work back-end position at Technonia🏢
+- I wanna get a new job🏢
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JinleeJeong&show_icons=true&theme=dracula" /></a>
-- I'm Studying at Konkuk University🏤
-
-
+- I'm studied at Konkuk University🏤
 
 <br />
 
 ### ✌️ Interest
-- Node js(Express)
-- Android Java and Kotlin 👀
-- React Native (Cross platform)
-- I like to do work out at Spoany Gym💪🏻
+- React 🔥
+- Next.js 🔥
+- React Native 👀
+- TypeScript 🔥
