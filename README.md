@@ -20,8 +20,6 @@ Hi, I'm JinleeJeong, I wanna be a top frontEnd web developer from Korea.
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JinleeJeong&show_icons=true&theme=dracula" /></a>
 - I'm studied at Konkuk University🏤
 
-<br />
-
 ### ✌️ Interest
 - React 🔥
 - Next.js 🔥
