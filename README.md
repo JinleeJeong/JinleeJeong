@@ -5,6 +5,8 @@
 </div>
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JinleeJeong&show_icons=true&theme=dracula" /></a>
+
 Hi, I'm JinleeJeong, I wanna be a top frontEnd web developer from Korea.
 
 **Languages and Tools:**  
@@ -17,7 +19,7 @@ Hi, I'm JinleeJeong, I wanna be a top frontEnd web developer from Korea.
 
 ### ☝️ Front-end Engineer
 - I wanna get a new job🏢
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=JinleeJeong&show_icons=true&theme=dracula" /></a>
+
 - I'm studied at Konkuk University🏤
 
 ### ✌️ Interest
