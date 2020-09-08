@@ -19,7 +19,7 @@ Hi, I'm JinleeJeong, I wanna be a top frontEnd web developer in Korea.
 
 
 ### ☝️ Front-end Engineer
-- I wanna get a new job🏢
+- I`m in MonyMony🏢
 
 - I'm studied at Konkuk University🏤
 
