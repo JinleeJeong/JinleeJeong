@@ -20,7 +20,7 @@ Hi, I'm JinleeJeong, I wanna be a top frontEnd web developer in Korea.
 
 ### ☝️ Front-end Engineer
 
-- I'm studied at Konkuk University🏤
+- I'm studying at Konkuk University🏤
 
 ### ✌️ Interest
 - React 🔥
