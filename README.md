@@ -6,7 +6,7 @@
 
 
 
-Hi, I'm JinleeJeong, I wanna be a top frontEnd web developer in Korea.
+Hi, I'm JinleeJeong, I wanna be a top frontEnd developer in Korea.
 
 **Languages and Tools:**  
 
