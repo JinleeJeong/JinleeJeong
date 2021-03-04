@@ -21,7 +21,7 @@ Hi, I'm JinleeJeong, I wanna be a great frontEnd developer in Korea.
 
 ### ☝️ Front-end Engineer
 
-- I'm studying at Konkuk University🏤
+- I graduated from Konkuk University.🏤
 
 ### ✌️ Interest
 - React Native 🔥
