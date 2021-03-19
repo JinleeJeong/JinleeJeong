@@ -28,4 +28,4 @@ Hi, I'm JinleeJeong, I wanna be a great frontEnd developer in Korea.
 - React 🔥
 - Next.js 🔥
 - TypeScript 🔥
-- Vue.js ✍🏻
+- Vue.js 🔥
