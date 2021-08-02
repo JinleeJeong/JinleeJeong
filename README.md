@@ -6,7 +6,7 @@
 
 
 
-Hi, I'm JinleeJeong, I wanna be a great frontEnd developer in Korea.
+Hi, I'm daniel, I wanna be a great frontEnd developer in the world.
 
 **Languages and Tools:**  
 
