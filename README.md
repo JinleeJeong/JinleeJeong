@@ -6,7 +6,7 @@
 
 
 
-Hi, I'm daniel, I wanna be a great frontEnd developer in the world.
+Hi, I'm daniel, I want to be a supplier, not an open source consumer.
 
 **Languages and Tools:**  
 
