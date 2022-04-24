@@ -28,4 +28,3 @@ Hi! I'm daniel, I want to be a supplier, not an open source consumer.
 - React 🔥
 - Next.js 🔥
 - TypeScript 🔥
-- Vue.js 🔥
