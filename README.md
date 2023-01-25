@@ -8,8 +8,8 @@
 
 Hi! I'm daniel, I want to be a supplier, not an open source consumer.
 
-**Languages and Tools:**  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats-ruby-one.vercel.app/api?username=JinleeJeong&count_private=true&show_icons=true&theme=dracula" /></a>
+**Languages and Tools:**
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=JinleeJeong&count_private=true&show_icons=true&theme=dracula" /></a>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
