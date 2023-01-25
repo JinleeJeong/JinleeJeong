@@ -21,7 +21,7 @@ Hi! I'm daniel, I want to be a supplier, not an open source consumer.
 ### ☝️ Front-end Engineer
 
 - I graduated from Konkuk University.🏤
-- [노션](https://jinlee-dev.notion.site/f3426bba01524c24a88b462453769176)
+- [Notion](https://jinlee-dev.notion.site/f3426bba01524c24a88b462453769176)
 
 
 ### ✌️ Interest
