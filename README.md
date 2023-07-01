@@ -6,7 +6,7 @@
 
 
 
-Hi! I'm daniel, I want to be a supplier, not an open source consumer.
+Hi! I'm jinlee, I want to be a supplier, not an open source consumer.
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -23,8 +23,8 @@ Hi! I'm daniel, I want to be a supplier, not an open source consumer.
 
 
 ### ✌️ Interest
-- React Native 🔥
 - React 🔥
+- React Native 🔥
 - Next.js 🔥
 - TypeScript 🔥
 
