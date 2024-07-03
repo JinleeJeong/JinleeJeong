@@ -18,7 +18,6 @@ Hi! I'm jinlee, I want to be a supplier, not an open source consumer.
 ### ☝️ Front-end Engineer
 
 - I graduated from Konkuk University.🏤
-- [Notion](https://jinlee-dev.notion.site/f3426bba01524c24a88b462453769176)
 
 
 ### ✌️ Interest
